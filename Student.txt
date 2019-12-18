@@ -1,0 +1,9 @@
+FName,LName,Depar,Id,Avialable
+Sami,Amsalu,Civil,435,Yes
+Jack,Mark,Electrical,324,No
+Frew,Reta,Software,241,No
+Kari,Steve,mechanical,78,No
+Grudem,Rans,software,91,No
+Barew,Shalms,enviromental,13,Yes
+Helen,Jacks,electrical,24,Yes
+jerry,bash,civil,234,Yes
